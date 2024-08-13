@@ -1,0 +1,116 @@
+1. How to comment on html tags
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Comment Example</title>
+</head>
+<body>
+
+    <!-- This is the main heading of the page -->
+    <h1>Welcome to My Web Page</h1>
+
+    <!-- This is a section for a paragraph -->
+    <p>This is a paragraph explaining the content of the webpage.</p>
+
+    <!-- This is a list of items -->
+    <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+    </ul>
+</body>
+</html>
+
+
+2.How to include abbreviations in html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML Abbreviation Example</title>
+</head>
+<body>
+    <h1>Understanding Abbreviations in HTML</h1>
+    <p>
+        The term <abbr title="Hypertext Markup Language">HTML</abbr> is the standard markup language used to create web pages.
+    </p>
+    <p>
+        Another common term is <abbr title="Cascading Style Sheets">CSS</abbr>, which is used to style web pages.
+    </p>
+    <p>
+        The <abbr title="World Health Organization">WHO</abbr> is an important global health organization.
+    </p>
+</body>
+</html>
+
+3.How to create a hyper link in html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hyperlink Example</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>Click the link below to visit Example.com:</p>
+    <!-- This is the hyperlink -->
+    <a href="https://www.example.com" target="_blank">Visit Example.com</a>
+    <p>Thank you for visiting!</p>
+</body>
+</html>
+
+4.what is the correct way to write an address in an html document
+
+<!doctype html>
+<html>
+<head>
+<title>example for address tag</title>
+</head>
+<body>
+<h1>contact us</h1>
+<address>
+jeppiaar institute of technology<br>
+no.86 kunnam village<br>
+sunguvarchatram,sriperambudur,<br>
+chennai-600 028<br>
+jitinstitute@gmail.com
+</address>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

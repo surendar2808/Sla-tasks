@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Surendar profile</title>
+<style>
+	header{
+	    background-color: rgb(255, 102, 0);
+            color: white;
+            text-align: center;
+	      }
+	p,ul{
+	    font-size:20px;
+	}
+	
+	footer{
+	    text-align:center;
+	    font-size:8px;
+	      }
+   
+</style>
+
+</head>
+<body>
+	<header>
+		<h1>WELCOME TO MY PROFILE</h1>
+	</header>
+<br>
+<div>
+	<h2>ABOUT ME</h2>
+	<p>Hi, I am Surendar. I have recently completed My B.tech degree in jeppiaar institute of technology .for upskilling my skills so I have joined in sla institute for learning fullstack </p>
+<hr>
+	<h2>TECHNICAL SKILLS</h2>
+            <ul>
+                <li>Java</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+<hr>
+	<h2>STRENGTHS</h2>
+	   <ul>
+                <li>I have good communication skills </li>
+                <li> I am a quick learner and adapt well to new tools and technologies.</li>
+                <li>self motivated</li>
+            </ul>
+<hr>
+	<h2>WEAKNESS</h2>
+	<p></p>
+
+
+</div>
+<footer>
+        <h3>&copy; All rights Thank You!!</h3>
+    </footer>
+
+</body>
+</html>

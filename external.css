@@ -1,0 +1,31 @@
+</*by creating html file as index.html*/>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>External CSS Example</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome to External CSS</h1>
+    <p>This is a paragraph styled using an external CSS file. The styles are consistent and can be applied across multiple pages.</p>
+</body>
+</html>
+
+</*by creating css file as style.css*/>
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    color: #555;
+    font-size: 16px;
+    margin: 20px;
+}
+

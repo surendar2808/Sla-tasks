@@ -1,0 +1,57 @@
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width">
+        <title>select by id</title>
+        <style>
+            #myid
+            {
+                text-align: center;
+                font-size: 100px;
+                color:brown;
+                font-family: 'Times New Roman', Times, serif;
+            }
+            .newclass
+            {
+                text-align: right;
+                
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+            .new
+            {
+                background-color: skyblue;
+            }
+            h3,h4,p
+            {
+                
+                color: black;
+                direction: ltr;
+                word-spacing: 2px;
+                letter-spacing: 3px;
+                text-shadow:2px 2px yellow;
+                text-indent: 200cm;
+
+            }
+            *
+            {
+                color:orange;
+            }
+            .class3,.class4
+            {
+                text-align: center;
+                text-decoration: dotted;
+                color: black;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1 id="myid">This is using ID selector</h1>
+        <h1 class="newclass">This is class selector</h1>
+        <h1 class="newclass new">This also class selector</h1>
+        <h3>This is h3 and by using element selctor</h3>
+        <h2 class="class3">THIS IS CLASS 3</h2>
+        <h5 class="class4">THIS IS CLASS 4</h5>
+        <h4>This also h4 use by element selctor seperated by commas,</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet.an Lorem ipsum dolor sit amet, consectetur adipisicing</p>
+    </body>
+</html>
